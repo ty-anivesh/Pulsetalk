@@ -147,9 +147,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Mohammed Zaid**
+**Anivesh Tyagi**
 
-- GitHub: https://github.com/zaid753
+- GitHub: https://github.com/ty-anivesh
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 
 ---
